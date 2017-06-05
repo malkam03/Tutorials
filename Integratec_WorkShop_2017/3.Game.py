@@ -55,22 +55,36 @@ def fillWithX(word):
         return list(temp)
     else:
         print("Invalid entry")
-        
+
+#Method to check if letter is on the word.
+def isOnWord(letter, word):
+    for let in word:
+        if let == letter:
+            return True
+    return False
+
+#Method to show the letter on the guess word.
+def showLetter(letter, word, guess):
+    tmp = list(guess)
+    for i in range(len(word)):
+        if(word[i]==letter):
+            tmp[i]=letter
+    return "".join(tmp)
+
 #Main game method
-def main():
+def play():
     lives = 5
-    word = "HIHello"
+    word = randomWord()
     word = word.lower()
     guess = fillWithX(word)
     while (lives >= 0):
         print ("Lives left: " + str(lives))
         print ("Guess the word: " +"".join(guess))
-        position = int(input("Enter the guess position: ")) - 1
         letter = input("Enter the guess letter: ")
         letter = letter.lower()
         if( isLetter(letter)):
-            if(word[position]==letter):
-                guess[position] = letter
+            if(isOnWord(letter, word)):
+                guess = showLetter(letter, word, guess)
                 if ("".join(guess) == word ):
                     print("Congratulations you just won the game!")
                     return
@@ -80,4 +94,4 @@ def main():
     print ( "Game over! You looser!")
             
         
-main()
+play()
