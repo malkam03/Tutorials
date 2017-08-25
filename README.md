@@ -1,4 +1,4 @@
-Malcolm's Path through TEC-CR's CE
+Tutorials
 =====================
 ![malkam03](malkam03.png)   
 This repository aims to hold most of the data of diferent workshops that I'll give. Every workshop is in his own directory.
