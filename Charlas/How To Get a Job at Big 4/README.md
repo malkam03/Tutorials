@@ -12,7 +12,6 @@ En el archivo [Charla_HTGJB5.pdf](Charla_HTGJB5.pdf) puede encontrar la presenta
 ## Expositores
 
 * **Malcolm Davis** - @[malkam03](https://github.com/malkam03)  
-* **Joseph Salazar** - @[saj11](https://github.com/saj11)
 
 
 ## Motivación
