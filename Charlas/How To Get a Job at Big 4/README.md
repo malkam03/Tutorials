@@ -120,7 +120,6 @@ Este proyecto está licenciado bajo la licencia del MIT,  - ver [LICENSE.md](LIC
 ## Reconocimientos 
 * Libro [Cracking the Coding Interview](https://g.co/kgs/4Wvkwa).
 * Libro [Programming Interviews Exposed](https://g.co/kgs/XuuskS).
-* La ayuda de las Ing. de Google.  
 * Los videos con material de los youtubers publicados acá.
 * Los blogs informativos con material publicados acá. 
 
