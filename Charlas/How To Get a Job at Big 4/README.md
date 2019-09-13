@@ -7,9 +7,9 @@ Charla: ¿Cómo Conseguir un Trabajo en las 4+1 grandes?
 Esta charla está enfocada brindar las herramientas necesarias para que un estudiante común sepa que hacer para ser notado en un proceso de contratación con altos estándares. Se enfocará en los procesos de contratación para pasantías de Google, Amazon, Apple, Facebook y Microsoft. Cabe destacar que, aunque cada empresa tiene sus particularidades, el proceso es muy similar al de otras empresas, lo que diferencia a las grandes compañías del resto son sus altos estándares.
 
 ## Primeros Pasos
-En el archivo [Charla_HTGJB5.pdf](Charla_HTGJB5.pdf) puede encontrar la presentación que usaron los expositores para la charla. En este readme puede encontrar la mayoría del material consultado para esta charla. El material se seguirá actualizando luego de la misma.
+En el archivo [Charla_HTGJB5.pdf](Charla_HTGJB5.pdf) puede encontrar la presentación que usó el expositor para la charla. Este readme conntiene la mayoría del material consultado para esta charla. El material se seguirá actualizando luego de la misma.
 
-## Expositores
+## Expositor
 
 * **Malcolm Davis** - @[malkam03](https://github.com/malkam03)  
 
