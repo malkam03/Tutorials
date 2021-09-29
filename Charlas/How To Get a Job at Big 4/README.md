@@ -107,6 +107,7 @@ Algunas diferencias entre las entrevistas de las empresas son:
 * Página para encontrar proyectos de software libre [Up-For-Grabs](http://up-for-grabs.net/#/)
 * Página para encontrar voluntareados [ONG Voluntariado](http://www.ongvoluntariado.org/voluntariado-costa-rica/)
 #### ¿Donde aplicar?
+* [Intel](https://jobs.intel.com/)
 * [Google](https://www.google.com/careers/students)
 * [Facebook](https://www.facebook.com/careers/university/)
 * [Microsoft](https://careers.microsoft.com/students/internships)
